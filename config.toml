@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://io-oi.me/"
+baseURL = "https://ulovei.net"
 title = "reuixiy"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -92,17 +92,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "LouisWang"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "ali@ulovei.net"
     # 座右铭或简介
     motto = "Viva La Vida"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://ulovei.net/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "LouisWang"
 
 # 相关文章
 [related]
@@ -262,17 +262,17 @@ uglyURLs = false
 
     ## 社交栏
     [[menu.socials]]
-        url = "https://github.com/reuixiy"
+        url = "https://github.com/swskys"
         name = "GitHub"
         weight = 1
         pre = "external"
     [[menu.socials]]
-        url = "https://t.me/yixiuer"
+        url = "https://t.me/swskys"
         name = "Telegram"
         weight = 2
         pre = "external"
     [[menu.socials]]
-        url = "https://twitter.com/reuixiy"
+        url = "https://twitter.com/swskys"
         name = "Twitter"
         weight = 3
         pre = "external"
@@ -1104,9 +1104,9 @@ uglyURLs = false
     #      的优先级高于此处
 
     # 仓库地址
-    repoURL = "https://github.com/reuixiy/io-oi.me"
+    repoURL = "https://github.com/swskys/swskys.github.io"
     # 编辑地址
-    repoEditURL = "https://github.com/reuixiy/io-oi.me/blob/master"
+    repoEditURL = "https://github.com/swskys/swskys.github.io/master"
 
     # Git 的图标
     gitIcon = "code-branch"
